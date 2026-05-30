@@ -72,7 +72,7 @@ const Hero: React.FC = () => {
             >
               {/* Foto */}
               <img
-                src="/public/HammamProfil.jpg"
+                src="/HammamProfil.jpg"
                 alt="Hammam"
                 className="w-full object-cover border-2 border-charcoal mb-4"
                 style={{ height: 200 }}
